@@ -27,4 +27,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run tests
-        run: python login_test.py
+        run: python login.py
